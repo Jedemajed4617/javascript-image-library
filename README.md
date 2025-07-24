@@ -409,6 +409,11 @@ previousImage();
 
 ## Updates & Changelog
 
+### Version 0.0.4 (Future)
+- CSS reworked 
+- Better animations
+- Better feel (like an app)
+  
 ### Version 0.0.3 (Current)
 - ✅ Added infinite scroll
 - ✅ Enhanced carousel functionality
