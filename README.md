@@ -20,8 +20,7 @@ The **JavaScript Image Library** is a modern, lightweight solution for creating 
 
 **Version:** 0.0.3  
 **Dependencies:** jQuery 3.7.1+  
-**License:** MIT  
-**Size:** ~45KB (minified)
+**License:** [Propietary](#license)
 
 ---
 
@@ -74,6 +73,7 @@ Include the required dependencies in your HTML:
 ```html
 <!-- jQuery (Required) -->
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+// Or the latest version :)
 
 <!-- JavaScript Image Library -->
 <script src="path/to/velisoft-img-lib.js"></script>
@@ -82,7 +82,7 @@ Include the required dependencies in your HTML:
 
 ### Method 2: Download
 
-1. Download the complete package from the website
+1. Download the complete zip from the website
 2. Extract the files to your project directory
 3. Include the CSS and JS files in your HTML
 
@@ -454,8 +454,18 @@ When reporting issues, please include:
 
 ## License
 
-This javascript image library is licensed under the [GPLv3 License](https://choosealicense.com/licenses/gpl-3.0/) for all open source applications. 
-A commercial license is required for all commercial applications (including sites, themes and apps you plan to sell).
+### Commercial Standard License
+Preamble/intro This software license may be freely used in unmodified form (with exceptions). A work may only be copyrighted under this license in its unmodified form, or with some subsections removed or swapped out. Details todo.
+Overview These are the changes made to this specific license: Copyright Owner: Tygo Jedema Product Name: Javascript-img-lib License Modifications Source code is NOT provided. Warranty is NOT given. You are allowed to have this software installed on 4 machine(s) at once. Commercial use is NOT allowed.
+Definitions "Product", or "software" refers to the work that is copyrighted under this license.
+"We", or "us" refer to the copyright owner of this product. That owner is Tygo Jedema
+"You" refers to the licensee of this product.
+License, not purchase By purchasing this license, you are allowed to use this product, but we retain the copyright to the software.
+Redistribution You may not redistribute or resell the software.
+Warranty This product does NOT come with any warranty, express or implied, notwithstanding legislation to the contrary.
+Source Code This software does NOT provide the source code, and it is NOT legal to attempt to aquire it, whether by reverse engineering or otherwise.
+
+Note: If the owner wishes to provide the source code, remove the NOTs in the paragraph above. In either case, remove this notice.
 
 ---
 
