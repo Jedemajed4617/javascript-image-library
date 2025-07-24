@@ -75,9 +75,9 @@ Include the required dependencies in your HTML:
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 // Or the latest version :)
 
-<!-- JavaScript Image Library -->
-<script src="path/to/velisoft-img-lib.js"></script>
-<link rel="stylesheet" href="path/to/velisoft-img-lib.css">
+<!-- JavaScript Image Library (From github) -->
+<script src="https://cdn.jsdelivr.net/gh/jedemajed4617/javascript-image-library/javascript-img-lib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/jedemajed4617/javascript-image-library/javascript-img-lib.css"></script>
 ```
 
 ### Method 2: Download
